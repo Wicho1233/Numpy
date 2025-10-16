@@ -1,2 +1,2 @@
 # Simulacion
-First Numpy class in Simulation
+Practices seen during Simulation classes
